@@ -1,0 +1,5 @@
+com/example/point/repository/PointRepository.class
+com/example/point/PointApplication.class
+com/example/point/entity/PointTransaction.class
+com/example/point/controller/PointController.class
+com/example/point/service/PointService.class

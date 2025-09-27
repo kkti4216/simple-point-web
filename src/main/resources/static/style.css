@@ -1,0 +1,21 @@
+.history-list {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.history-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.history-item:last-child {
+    border-bottom: none;
+}
+
+.points-add {
+    color: #28a745;
+}
+
+.points-use {
+    color: #dc3545;
+}
