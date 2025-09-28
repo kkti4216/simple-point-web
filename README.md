@@ -19,8 +19,8 @@ mvn spring-boot:run
 
 ## 🌐 アクセス
 
-- **メイン画面**: http://localhost:8080
-- **H2コンソール**: http://localhost:8080/h2-console
+- **メイン画面**: http://localhost:5555
+- **H2コンソール**: http://localhost:5555/h2-console
 
 ### H2データベース接続情報
 - JDBC URL: `jdbc:h2:mem:testdb`
@@ -70,7 +70,3 @@ src/main/resources/
 └── data.sql                      # 初期データ
 ```
 
-## 📝 初期データ
-
-- **田中太郎**: 1,300pt（付与1,500pt - 利用200pt）
-- **佐藤花子**: 1,100pt（付与1,100pt）
