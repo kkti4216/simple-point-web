@@ -12,6 +12,8 @@ Spring Bootを使った簡単なポイント管理Webアプリケーションで
 ## 🚀 起動方法
 
 ```bash
+sudo dnf install java-17-amazon-corretto -y
+sudo dnf install maven -y
 mvn spring-boot:run
 ```
 
